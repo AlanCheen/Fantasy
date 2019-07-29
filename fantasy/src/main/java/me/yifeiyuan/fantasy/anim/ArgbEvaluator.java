@@ -6,7 +6,7 @@ import android.animation.TypeEvaluator;
  *
  *
  * Usage:
- *
+ * <pre>
  * final GradientDrawable drawable = (GradientDrawable) view.getBackground();
  * int start = Color.parseColor("#333333");
  * int end = Color.parseColor("#FF6D2B");
@@ -22,7 +22,7 @@ import android.animation.TypeEvaluator;
  *     }
  * });
  * anim.start();
- *
+ * </pre>
  */
 public class ArgbEvaluator implements TypeEvaluator {
 

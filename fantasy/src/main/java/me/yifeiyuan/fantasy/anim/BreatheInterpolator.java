@@ -1,13 +1,13 @@
-package me.yifeiyuan.fantasy;
+package me.yifeiyuan.fantasy.anim;
 
 import android.animation.TimeInterpolator;
 /**
  * Created by 程序亦非猿 on 2019-07-01.
  *
  * Usage:
- *
+ * <pre>
  * ObjectAnimator.setInterpolator(new BreatheInterpolator());
- *
+ * </pre>
  * Ref: https://juejin.im/entry/58b4e2365c497d00560dad00
  */
 public class BreatheInterpolator implements TimeInterpolator {
