@@ -1,11 +1,13 @@
-package me.yifeiyuan.fantasydev;
+package me.yifeiyuan.fantasy.dev;
 
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
 import android.support.v7.app.AppCompatActivity;
-import android.support.annotation.NonNull;
 import android.view.MenuItem;
 import android.widget.TextView;
+
+import me.yifeiyuan.fantasy.R;
 
 public class MainActivity extends AppCompatActivity {
 

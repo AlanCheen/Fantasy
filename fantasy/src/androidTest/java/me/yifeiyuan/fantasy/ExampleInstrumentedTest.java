@@ -1,4 +1,4 @@
-package me.yifeiyuan.fantasydev;
+package me.yifeiyuan.fantasy;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("me.yifeiyuan.fantasy", appContext.getPackageName());
+        assertEquals("me.yifeiyuan.fantasy.test", appContext.getPackageName());
     }
 }

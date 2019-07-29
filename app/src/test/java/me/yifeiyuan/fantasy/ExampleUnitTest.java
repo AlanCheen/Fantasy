@@ -1,4 +1,4 @@
-package me.yifeiyuan.fantasydev;
+package me.yifeiyuan.fantasy;
 
 import org.junit.Test;
 
