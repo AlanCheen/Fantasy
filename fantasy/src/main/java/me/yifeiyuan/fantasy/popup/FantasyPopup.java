@@ -41,6 +41,11 @@ public class FantasyPopup implements IFantasyPopup {
     }
 
     @Override
+    public void setDuration(final long duration) {
+        popup.setDuration(duration);
+    }
+
+    @Override
     public PopupWindow getPopupWindow() {
         return popup;
     }

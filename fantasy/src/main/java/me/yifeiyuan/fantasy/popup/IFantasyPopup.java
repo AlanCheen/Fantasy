@@ -4,7 +4,7 @@ import android.widget.PopupWindow;
 /**
  * Created by 程序亦非猿 on 2019-07-03.
  */
-public interface IFantasyPopup {
+interface IFantasyPopup {
 
     void setAnimationStyle(int animationStyle);
 
@@ -13,6 +13,8 @@ public interface IFantasyPopup {
     void setWidth(int width);
 
     void setHeight(int height);
+
+    void setDuration(long duration);
 
     PopupWindow getPopupWindow();
 
