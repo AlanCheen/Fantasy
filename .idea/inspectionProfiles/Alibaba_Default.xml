@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Alibaba Default" />
+    <inspection_tool class="AndroidLintAndroidContentProviderDetector" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintAnimationDrawableDetector" enabled="true" level="P3" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintBitmapConfigDetector" enabled="true" level="P3" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintBroadcastIntentDetector" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintBroadcastReceiverDetector" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintBroadcastReceiverRegisterDetector" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintCheckHostnameVerifierDetector" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintConcurrentModificationException" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintCursorWindowAllocationException" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintDimenResNameDetector" enabled="true" level="P3" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintHardCodeDetector" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintIllegalMonitorStateException" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintIllegalStateExceptionStateLoss" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintIllegalThreadStateException" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintIntentSchemeURLDetector" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintIvParameterSpecDetector" enabled="true" level="P3" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintLargeRatioPictureDetector" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintLocalBroadcastManagerDetector" enabled="true" level="P3" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintLogtagDetector" enabled="true" level="P3" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintMultiThreadServiceDetector" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintMultiThreadWriteDatabaseDetector" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintNestedFragmentDetector" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintNestedLinearLayout" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintNewThreadDetector" enabled="true" level="P3" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintNumberFormatException" enabled="true" level="P3" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintPXUsageDetector" enabled="true" level="P3" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintPendingIntentDetector" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintSQLiteDetector" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintScrollViewDetector" enabled="true" level="P3" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintSharePreferenceDetector" enabled="true" level="P3" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintSystemPrintDetector" enabled="true" level="P4" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintThreadPoolExecutorDetector" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintUnSupportedOperationExceptionString" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintUnsupportedOperationExceptionAbstractList" enabled="true" level="P2" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintUnsupportedOperationExceptionUri" enabled="true" level="P3" enabled_by_default="true" />
+    <inspection_tool class="AndroidLintZipEntryDetector" enabled="true" level="P2" enabled_by_default="true" />
+  </profile>
+</component>
